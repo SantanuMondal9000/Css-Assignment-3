@@ -48,17 +48,18 @@ ul{
     text-transform: capitalize;
     padding: 40px 25px;
     font-size: 1.3rem;
+    color: black;
 
 
 
 }
 .nav-link-active{
     background-image: linear-gradient(#c400fc, #3a3fd8);
-    color: white;
+    color: white !important;
 }
 
 .nav-link:hover {
-    color: white;
+    color: white !important;
     background-image: linear-gradient(#c400fc, #3a3fd8);
 
 }
