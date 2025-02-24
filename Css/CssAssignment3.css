@@ -71,7 +71,7 @@ ul {
 
 /* Banner */
 .banner {
-  background-image: url("/Assets/images/banner-img.jpg");
+  background-image: url("../Assets/images/banner-img.jpg");
   background-position: center;
   background-size: cover;
   height: 100vh;
@@ -135,7 +135,7 @@ ul {
   bottom: 15px;
   width: 30px;
   height: 30px;
-  background-image: url("/Assets/images/arrow.png");
+  background-image: url("../Assets/images/arrow.png");
   background-size: cover;
   background-position: center;
   cursor: pointer;
@@ -190,7 +190,7 @@ ul {
 
 /* Swimming-rated */
 .swimming-rated {
-  background-image: url("/Assets/images/swimming-bg1.jpg");
+  background-image: url("../Assets/images/swimming-bg1.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -289,19 +289,19 @@ ul {
 }
 
 .records-item:nth-child(1)::before {
-  background-image: url("/Assets/images/people-round-img1.jpg");
+  background-image: url("../Assets/images/people-round-img1.jpg");
 }
 
 .records-item:nth-child(2)::before {
-  background-image: url("/Assets/images/people-round-img2.jpg");
+  background-image: url("../Assets/images/people-round-img2.jpg");
 }
 
 .records-item:nth-child(3)::before {
-  background-image: url("/Assets/images/people-round-img3.jpg");
+  background-image: url("../Assets/images/people-round-img3.jpg");
 }
 
 .records-item:nth-child(4)::before {
-  background-image: url("/Assets/images/people-round-img4.jpg");
+  background-image: url("../Assets/images/people-round-img4.jpg");
 }
 
 .records-item p {
